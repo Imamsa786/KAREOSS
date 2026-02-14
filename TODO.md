@@ -1,0 +1,3 @@
+- [x] Add new section in index.html between past-events and core-members
+- [x] Add styles for the new section in styles.css
+- [x] Add JavaScript logic in script.js for the button behavior
